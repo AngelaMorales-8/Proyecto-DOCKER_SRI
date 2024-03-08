@@ -45,10 +45,6 @@ Hacemos comprobación:
 
 ![image](https://github.com/AngelaMorales-8/Proyecto-DOCKER_SRI/assets/122454505/13761b17-dfba-4287-8e3e-a4bb53b2a8ae)
 
-------------------------------------------------------------------------
-
-Antes que nada descargamos una máquina virtual de Ubuntu y creamos el proyecto.
-
 Instalamos paquetes para poder descargar a través de https.
 
 ![image](https://github.com/AngelaMorales-8/Proyecto-DOCKER_SRI/assets/122454505/c686512f-9a79-4df0-b208-6d96752117b5)
@@ -57,18 +53,13 @@ Ponemos una una clave privada
 
 ![image](https://github.com/AngelaMorales-8/Proyecto-DOCKER_SRI/assets/122454505/14ae34e2-7e41-44f6-b6a8-c0a4a1ce07ce)
 
-Creamos un repositorio y descargamos Docker
-
+Creamos un repositorio 
 ![image](https://github.com/AngelaMorales-8/Proyecto-DOCKER_SRI/assets/122454505/97e5ebf7-62e0-408d-99b0-227c98360fbd)
 
-Instalar Docker
 
-![image](https://github.com/AngelaMorales-8/Proyecto-DOCKER_SRI/assets/122454505/7e65ed56-c19a-48ec-bb51-a61d482106e5)
+              CREAMOS UNA RED PARA USAR LOS DOS CONTENEDORES
 
-![image](https://github.com/AngelaMorales-8/Proyecto-DOCKER_SRI/assets/122454505/98052c18-725e-479e-a467-bbb6f47a1850)
+![image](https://github.com/AngelaMorales-8/Proyecto-DOCKER_SRI/assets/122454505/83fb1966-b1ad-421f-a11d-1094046397c4)
 
-![image](https://github.com/AngelaMorales-8/Proyecto-DOCKER_SRI/assets/122454505/9447bd6b-1c76-42f3-9690-5925626c7d41)
-
-Comprobamos la instalación
 
 
