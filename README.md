@@ -54,6 +54,7 @@ Ponemos una una clave privada
 ![image](https://github.com/AngelaMorales-8/Proyecto-DOCKER_SRI/assets/122454505/14ae34e2-7e41-44f6-b6a8-c0a4a1ce07ce)
 
 Creamos un repositorio 
+
 ![image](https://github.com/AngelaMorales-8/Proyecto-DOCKER_SRI/assets/122454505/97e5ebf7-62e0-408d-99b0-227c98360fbd)
 
 
